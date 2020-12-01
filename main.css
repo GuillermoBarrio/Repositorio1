@@ -1,0 +1,20 @@
+.rectwarning {
+    fill: rgb(255, 120, 120);
+}
+
+#mapid {
+    width: 800px;
+    height: 400px;
+}
+
+.tooltip {
+    position: absolute;
+    pointer-events: none;
+    visibility: hidden;
+    background-color: white;
+    border: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+    height: 35px;
+}
